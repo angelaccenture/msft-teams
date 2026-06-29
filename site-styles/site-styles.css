@@ -1,0 +1,16 @@
+/*
+ * Site-specific styles for THIS consuming site.
+ *
+ * Loaded AFTER the federated styles (/libs/styles/styles.css), so anything
+ * here overrides or extends the federated brand — the "subtle sub-brand
+ * tweaks" layer. Keep this lean: only what differs from the federated base.
+ *
+ * Federated brand/design tokens live in FED (/libs/styles/...). This file is
+ * local to this site and never federated.
+ */
+
+/* Example: a site-specific accent override (uncomment + adjust as needed)
+:root {
+  --color-accent: #0b5fff;
+}
+*/

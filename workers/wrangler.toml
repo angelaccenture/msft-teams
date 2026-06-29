@@ -1,0 +1,11 @@
+# Cloudflare Wrangler config for the federation worker.
+# When this repo is connected to Cloudflare (Workers & Pages -> connect to Git),
+# Cloudflare reads this file to build & deploy the worker automatically on push.
+#
+# name           = the worker's name in your Cloudflare account
+# main           = entry file (relative to this config)
+# compatibility_date pins the Workers runtime behavior
+
+name = "fed-temp-worker"
+main = "federation-worker.js"
+compatibility_date = "2026-06-29"
