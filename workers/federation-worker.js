@@ -28,12 +28,12 @@
  */
 
 // ---- THIS site (the consuming child) ----
-const SITE_REPO = 'foundation-kit-fed-temp';
+const SITE_REPO = 'msft-teams';
 const SITE_OWNER = 'angelaccenture';
 const SITE_BRANCH = 'main';
 
 // ---- The federated project (the "/libs" source) ----
-const FED_REPO = 'foundation-kit-fed';
+const FED_REPO = 'msft-foundation-kit';
 const FED_OWNER = 'angelaccenture';
 const FED_DEFAULT_REF = 'main';
 
