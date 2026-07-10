@@ -1,6 +1,6 @@
 :root {
    /* ── Semantic color roles (what child sites and blocks reference) ── */
-  --color-primary: #f4fafd;
+  --color-primary: #5553c1;
   --color-primary-hover: var(--color-ms-blue-700);
   --color-cta: var(--color-ms-blue-600);
   --color-cta-text: var(--color-light);
