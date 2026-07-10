@@ -1,0 +1,14 @@
+:root {
+   /* ── Semantic color roles (what child sites and blocks reference) ── */
+  --color-primary: #f4fafd;
+  --color-primary-hover: var(--color-ms-blue-700);
+  --color-cta: var(--color-ms-blue-600);
+  --color-cta-text: var(--color-light);
+  --color-focus: var(--color-ms-blue-500);
+  --color-border: var(--color-gray-200);
+  --color-muted: var(--color-gray-600);
+  --color-brand: var(--color-ms-blue-600);
+  --color-accent: var(--color-ms-blue-600);
+  --color-background: light-dark(var(--color-light), var(--color-dark));
+  --color-shaded: light-dark(#f2f2f2, #111);
+}
