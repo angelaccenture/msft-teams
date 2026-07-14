@@ -13,5 +13,5 @@
   --color-headings: var(--color-titles);
 
   --hero-btn-secondary-bg: #5d5bd4;
-  --hero-btn-primary-bg: transparent !important;
+  --hero-btn-primary-bg: #5d5bd4;
 }
