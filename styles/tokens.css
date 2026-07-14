@@ -1,6 +1,6 @@
 :root {
    /* ── Semantic color roles (what child sites and blocks reference) ── */
-  --color-primary: var(--color-ms-blue-600);
+  --color-primary: #5553c1;
   --color-primary-hover: var(--color-ms-blue-700);
   --color-cta: var(--color-ms-blue-600);
   --color-cta-text: var(--color-light);
@@ -12,6 +12,6 @@
   --color-background: #fffdfb;
   --color-headings: var(--color-titles);
 
-    --hero-btn-secondary-bg: ##5d5bd4;
+  --hero-btn-secondary-bg: ##5d5bd4;
   --hero-btn-primary-bg: transparent !important;
 }
